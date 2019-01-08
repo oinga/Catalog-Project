@@ -3,7 +3,7 @@
 ![alt text](https://i.ibb.co/s9BZDsw/Cuisine-list.png)
 
 - This is a flask application that will start a webserver serving at Localhost:8000
-- Data is STORED in an "SqLite" database hosted on the local machine
+- Data is stored in an "SqLite" database hosted on the local machine
 - Users can login via OAuth2.0 using Google Api.
 - Once logged in, users can perform CRUD operations via the frontend functions created by the flask framework.
 
